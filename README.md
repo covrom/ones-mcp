@@ -121,7 +121,7 @@ Claude · Cursor · Cherry Studio   MCP :3298                         1cv8.exe �
 
 ## Скачать установщик
 
-[Скачать `setupOnesMCP.exe`](https://ones-mcp.aiai.bizml.ru/#download)
+[Скачать `setupOnesMCP.exe`](https://ones-mcp.biztechai.ru/#download)
 
 Служба Windows с автозапуском и перезапуском при сбое. Удаление — `uninstall.exe` в каталоге установки. База не меняется: запросы только на чтение.
 
